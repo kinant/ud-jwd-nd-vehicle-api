@@ -43,7 +43,7 @@
       <recent name="com.udacity.jwdnd.p2.booglemaps.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Spring Boot.PricingServiceApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -88,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614360509041</updated>
       <workItem from="1614360510381" duration="1044000" />
-      <workItem from="1614874472173" duration="1533000" />
+      <workItem from="1614874472173" duration="2144000" />
     </task>
     <servers />
   </component>
