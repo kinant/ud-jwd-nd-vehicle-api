@@ -43,7 +43,7 @@
       <recent name="com.udacity.jwdnd.p2.booglemaps.entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BoogleMapsApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -60,6 +60,13 @@
     <configuration name="BoogleMapsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boogle-maps" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.udacity.jwdnd.p2.booglemaps.BoogleMapsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.udacity.jwdnd.p2.eurekaserver.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614360509041</updated>
       <workItem from="1614360510381" duration="1044000" />
-      <workItem from="1614874472173" duration="847000" />
+      <workItem from="1614874472173" duration="1533000" />
     </task>
     <servers />
   </component>
